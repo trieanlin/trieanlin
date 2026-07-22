@@ -1,6 +1,6 @@
 # Qingyuan Lin
 
-HCI researcher and designer working across digital health, human-centred AI and wellbeing.
+HCI researcher and designer working across digital wellbeing and human-centred AI.
 
 Currently completing an EngD at TU/e and building **QualiAudit**.
 
